@@ -1,0 +1,6 @@
+This program is a simple one that shows you how Express.js is used. Before executing the program, make sure all the necessary software is installed.
+
+Steps to execute the code:
+1. Open up Terminal window and navigate to the directory where the project is located
+2. Type in "nodemon server.js" at the command prompt
+3. Navigate to localhost:8000 to the application
